@@ -1,7 +1,7 @@
 export const companyInfo = {
   name: "Qualities CC",
   managingDirector: "Michael Clifford",
-  website: "https://qualities.cc",
+  website: "https://qualitiescc.vercel.app",
   email: "info@qualities.cc",
   phone: "+1 587 330 7963",
   addressLine: "2216 Kingston Road, 2, Toronto, M1N1T6",

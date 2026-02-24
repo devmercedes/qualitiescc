@@ -1,6 +1,6 @@
 export const companyInfo = {
   name: "Qualities CC",
-  managingDirector: "Michael Clifford",
+  managingDirector: "Robert Chris",
   website: "https://qualitiescc.vercel.app",
   email: "info@qualities.cc",
   phone: "+1 587 330 7963",
